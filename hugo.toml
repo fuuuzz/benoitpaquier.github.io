@@ -1,0 +1,4 @@
+baseURL = 'https://benoitpaquier.github.io/'
+languageCode = 'fr-fr'
+title = 'Benoit Paquier'
+theme = 'minimalist'
